@@ -1,5 +1,5 @@
 
-# 🌐 ESP8266 Web-Controlled LEDs and Buzzer
+#  ESP8266 Web-Controlled LEDs and Buzzer
 
 This project creates a **web-based control panel** to toggle multiple LEDs and a buzzer using the **ESP8266**. It supports both web control (via WiFi) and physical buttons for hardware toggling.
 
